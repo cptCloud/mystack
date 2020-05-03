@@ -25,6 +25,7 @@
 * kafka
 * graphQL
 * gRPC
+* protobuf
 
 ## Containerization
 
