@@ -34,6 +34,7 @@
 
 ## Cloud
 
+* OpenStack
 * azure
 * Heroku
 
